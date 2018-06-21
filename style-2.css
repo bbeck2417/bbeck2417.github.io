@@ -8,6 +8,9 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
 }
+form {
+  clear: all;
+}
 
 hr {
   max-width: 65px;
